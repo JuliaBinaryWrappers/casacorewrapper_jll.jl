@@ -1,0 +1,14 @@
+name = "casacorewrapper_jll"
+uuid = "5eb88fab-4dde-58d8-af5d-492bc9ff933e"
+version = "0.1.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+casacore_jll = "72fd12c2-f19b-5d3c-931a-6bbe5223e3ce"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
