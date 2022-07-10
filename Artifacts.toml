@@ -1,140 +1,140 @@
 [[casacorewrapper]]
 arch = "aarch64"
-git-tree-sha1 = "52296ecda7c41ecb398f496988a6a086e21937f5"
+git-tree-sha1 = "05ac178cbe7bdb418009d697d5451284857b7812"
 os = "macos"
 
     [[casacorewrapper.download]]
-    sha256 = "3640ae75c8db711a9afd65bfd14c5daaf955def5c7b299d06a4e3c1706b8a203"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "43f74420a9d155035a7e387b8077185167df4cf4b59bd35934432b5d11aa9fa3"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.aarch64-apple-darwin.tar.gz"
 [[casacorewrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cd34d37527a3e0004a7574aacf13683afd542714"
+git-tree-sha1 = "18e8f7f1ef51b40162715cad92c5c11f01a5f730"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "533f3e7be5ba781a3f83fe3bd4aada2db8ed61ca0a6db503a570e1264efb929c"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "668870cbc05f2cf2dea5c6fd8e3f90545af5e3dbd8b36acffacb9e9e9a21f274"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[casacorewrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5fb06846f94e963f822e75c4d4a20e5d97947d96"
+git-tree-sha1 = "073909752b2a4dc07a31771ec5fbca477b1dca80"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "11aaf2b6fbef8b0ccc34375472f485c2d388b78643f9af6791d22517d4feb0c4"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ebf2c0666b167dbb5fcf186d335d64a544a6630544650d77594d43b360ccaf23"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[casacorewrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d435bce2cffff7edd4df53969cdccf08e9cd1754"
+git-tree-sha1 = "3c6ec19a873f93eb9af23c6261316778f4482d67"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "6b6909258d4937ca81171bbd5c149d7dcf5424f1dde71f6aceb8311cf8c8dcc8"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "46f16f53c86192f76f2cdba776a567f42f6ac6066e67143d0f727d325522f545"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[casacorewrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d1a136133a5a8d73527ad498a0502ceb824506c"
+git-tree-sha1 = "294fb01c5ed5e4438557162d75257248e654360c"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "a26e9850d2da00dde00717904174005a98abb9d6d0c4a7ffc66bf05e0dc77eb5"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "9bec2738389cb1a85a3804e119317ea8dc9bfa95238cad67b0c88226a23f5a51"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[casacorewrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "373384ec1163694b075f02368c31ecee0c96e8c4"
+git-tree-sha1 = "c5020baec0e10502a70cb4490b2fda80311664e6"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "3360a24e8ef7c0b95800d3bd5076881dbe03ba6e5d9087d6c6890c80710ab1b3"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "57a6cdc5ec3c2aae7a0b8096c91b2860fad33d5613dbb11a470f7fb54f6dd336"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[casacorewrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5eec9764d5fe60eedb677df4adb0d0302d90d6f"
+git-tree-sha1 = "9787ec6df032a3c25316f759e6c48b633cce042a"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "8616f4e5f6bb5eff03f48eb7955054198165cb3504ac83ce591f32bdf2f45e7d"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "d4113e0b68ea51d25fea63891dcf2c81187d1b7263bfdec4ba34b17d6b096a94"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[casacorewrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3e4df72bf4587f85f2401a98724544c9c491074"
+git-tree-sha1 = "db844b94e3ac4bafca420c49a10daf8a46650fa8"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "af16d4ef65e9c0665fc5299c170500328b6173f19a567ddbebc81317e6803403"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "eac016d882ed3e4e0b76387ba64dcb23599ce9eb47a751e3c6741efca2e8c848"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
 [[casacorewrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "88ea912594c5140084a60c7197e4d3e374fb5669"
+git-tree-sha1 = "3aa77c199f502838c2c6d3f2833d72f6b2cc77c8"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "ad9b88c35693de47834944d2fe9b6346b392e49ea42425e347a97724ca9e4ffc"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "94e4254007b6f422da516874ad011af4137f864a95b618aa6f41aac1d8da6eb9"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
 [[casacorewrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7cc86ecd7134390ba7301bdb4746e20813db958f"
+git-tree-sha1 = "ca0ca0fa18f5edf36771f3d83d3bef2a81af66ff"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "ccf2547bd8a66516116ab3463f09178543c7bf46af096cf4646570df20789c8c"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "f8ecdbc8d24b23abced8920da3efef7cf4babfc7133298f95fbbfc8a25f26310"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[casacorewrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "26ef73075cbd00f35ab220d63839ec3b223cfc2d"
+git-tree-sha1 = "cfbc863477e69be747ca58804cc5131c567d8e92"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "36b11dc177cc2e3f9d17bdd3ef3eeffa66631069cf866ea05519ca7354d17166"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "1a6f339cbe823deb4a3dc75a372368fb6990f56ca90d331026f18296465db3bf"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[casacorewrapper]]
 arch = "x86_64"
-git-tree-sha1 = "ff35a5a16bae129d104ada28bb7dacac4d668a58"
+git-tree-sha1 = "cd21c196727634933d058b2cd9e431ac4d71a522"
 os = "macos"
 
     [[casacorewrapper.download]]
-    sha256 = "53c725ffc5fdff11be312b2fc974f1d7dfe782260a6ac4bd155c809c7bd70f5a"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "ce518e831b9dcfee38871cafe1ddf7a404b94d0bf678c7a7ba59d5b2da15d144"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.x86_64-apple-darwin.tar.gz"
 [[casacorewrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3e791f5cb19efdd19e82af8a2c6d0c9b34d676ea"
+git-tree-sha1 = "f267bdcc1cccc83cde9f18b7102e069ec27ba8a2"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "b2e2f2aed3f7ccd7091e9d8d09b2e6791663179d675b58ad9cda6406d4709a93"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "b14c705a2198ee73412e9c7560389b2f76dbb0abcd3c80cf404d0636eb27446c"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[casacorewrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7acc1bfdf93535921397b1aacd1a0592af72ea45"
+git-tree-sha1 = "e146afb5dbbe4e66a935d2c8f7957711a9bba0a3"
 libc = "glibc"
 os = "linux"
 
     [[casacorewrapper.download]]
-    sha256 = "8f0c5f3dbd6c1dfa8e0e0b8f8722c3b1cb8c70cf0b8c5f1c982065c731db2bbb"
-    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+0/casacorewrapper.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "264c6659875257ae5a59b73ce1254c1c0508c6f825cb7032a060b9a41ade36ec"
+    url = "https://github.com/JuliaBinaryWrappers/casacorewrapper_jll.jl/releases/download/casacorewrapper-v0.1.0+1/casacorewrapper.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
